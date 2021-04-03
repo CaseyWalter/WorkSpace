@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;recitation1014.package-info.java&apos; to &apos;NumberGuess.java&apos;&#x0D;&#x0A;- Original project: &apos;COMS207&apos;&#x0D;&#x0A;- Original element: &apos;recitation1014.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;recitation1014.NumberGuess.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;recitation1014{package-info.java" name="NumberGuess.java" references="false" stamp="1602722318603" version="1.0"/>
+</session>
